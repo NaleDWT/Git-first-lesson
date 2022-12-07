@@ -1,0 +1,33 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+.santa{
+    position: absolute;
+    right: -100px;
+    
+}
+
+h1{
+    display: block;
+    width: 100;
+    text-align: center;
+
+    color: rgb(239, 27, 27);
+    font-size: 6rem;
+}
+
+h2{
+    color: rgb(234, 217, 34);
+    text-align: center;
+    font-size: 2rem;
+}
+
+p{
+    margin: 2rem;
+}
